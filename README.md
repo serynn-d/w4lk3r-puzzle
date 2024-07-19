@@ -1,4 +1,4 @@
-# w4lk3r-puzzle
+# w4lk3r challenges
 A series of open-source technical puzzles for the 'secret' Alan Walker community.
 
 This repository is the public repo for the hidden challenge puzzles created by Walker #159155
